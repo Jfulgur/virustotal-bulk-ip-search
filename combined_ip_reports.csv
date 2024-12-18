@@ -1,0 +1,4 @@
+IP Address,VirusTotal Hits,VirusTotal Link,AbuseIPDB Confidence,AbuseIPDB ISP,AbuseIPDB Country,AbuseIPDB Link
+167.94.138.52,10,https://www.virustotal.com/gui/ip-address/167.94.138.52,0,"Censys, Inc.",US,https://www.abuseipdb.com/check/167.94.138.52
+128.14.209.38,12,https://www.virustotal.com/gui/ip-address/128.14.209.38,39,Zenlayer Inc,US,https://www.abuseipdb.com/check/128.14.209.38
+8.8.8.8,0,https://www.virustotal.com/gui/ip-address/8.8.8.8,0,Google LLC,US,https://www.abuseipdb.com/check/8.8.8.8
